@@ -1,16 +1,15 @@
-### Hi there 👋
+# Hi there 👋 I am Vinicius Calmon 😄
 
-<!--
-**ViniciusCalmon/ViniciusCalmon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📬 Contact me
 
-Here are some ideas to get you started:
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/viniciusfcalmon/)](https://www.linkedin.com/in/viniciusfcalmon/)[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:viniciuscalmon1@gmail.com)](mailto:viniciuscalmon1@gmail.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🖥 Languages, Technologies and Tools
+
+![](https://img.shields.io/badge/-VISUAL%20STUDIO%20CODE-blue)
+![](https://img.shields.io/badge/-SPRING%20TOOL-brightgreen)
+![](https://img.shields.io/badge/-JAVA-red)
+![](https://img.shields.io/badge/-SQL-blue)
+![](https://img.shields.io/badge/-HTML-orange)
+![](https://img.shields.io/badge/-JAVASCRIPT-yellow)
+![](https://img.shields.io/badge/-CSS-blue)
