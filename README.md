@@ -1,4 +1,4 @@
-# Hi there 👋 I am Vinicius Calmon 😄
+# Hey there 👋 I am Vinicius Calmon 😄
 
 ### 📬 Contact me
 
