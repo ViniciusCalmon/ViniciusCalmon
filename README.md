@@ -13,3 +13,7 @@
 ![](https://img.shields.io/badge/-HTML-orange)
 ![](https://img.shields.io/badge/-JAVASCRIPT-yellow)
 ![](https://img.shields.io/badge/-CSS-blue)
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?color=F77247&width=420&lines=A+Passionate+Developer+From+Brazil%E2%9C%8C%EF%B8%8F;Working+In+PigasusXTeam%E2%9D%A4%EF%B8%8F">
+</p>
