@@ -17,3 +17,8 @@
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?color=F77247&width=420&lines=A+Passionate+Developer+From+Brazil%E2%9C%8C%EF%B8%8F;Working+In+PigasusXTeam%E2%9D%A4%EF%B8%8F">
 </p>
+
+<div align="center">
+  <a href="https://github.com/benccalcyxzfi">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=benccalcyxzfi&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&cache_seconds=1800"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=benccalcyxzfi&layout=compact&langs_count=7&theme=dracula&cache_seconds=1800"/>
