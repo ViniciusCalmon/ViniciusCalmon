@@ -16,7 +16,7 @@
 ![](https://img.shields.io/badge/-NOSQL-green)
 ![](https://img.shields.io/badge/-HTML-orange)
 ![](https://img.shields.io/badge/-JAVASCRIPT-yellow)
-![](https://img.shields.io/badge/-REACT NATIVE-red)
+![](https://img.shields.io/badge/-REACT%20NATIVE-red)
 ![](https://img.shields.io/badge/-CSS-blue)
 
 <p align="left">
