@@ -30,6 +30,6 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=ViniciusCalmon&theme=dark">
     </div>
     <h2>🏆 GitHub Trophies</h2>
-    <img src="https://github-profile-trophy.vercel.app/?username=barbisliboni&theme=nord&column=7" >
+    <img src="https://github-profile-trophy.vercel.app/?username=ViniciusCalmon&theme=nord&column=7" >
     <img align="center" src="https://github.com/ViniciusCalmon/ViniciusCalmon/blob/output/workflows/github-contribution-grid-snake.gif">
 </div>
