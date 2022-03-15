@@ -19,6 +19,9 @@
 ![](https://img.shields.io/badge/-REACT%20NATIVE-red)
 ![](https://img.shields.io/badge/-CSS-blue)
 ![](https://img.shields.io/badge/-KAFKA-orange)
+![](https://img.shields.io/badge/-DOCKER-yellow)
+![](https://img.shields.io/badge/-FIREBASE-brightblue)
+![](https://img.shields.io/badge/-MONGODB-brightred)
 
   
 <p align="left">
