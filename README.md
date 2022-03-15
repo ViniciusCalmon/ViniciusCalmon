@@ -22,6 +22,8 @@
 ![](https://img.shields.io/badge/-DOCKER-yellow)
 ![](https://img.shields.io/badge/-FIREBASE-brightblue)
 ![](https://img.shields.io/badge/-MONGODB-blue)
+![](https://img.shields.io/badge/-POSTGRESQL-green)
+![](https://img.shields.io/badge/-DBEAVER-red)
 
   
 <p align="left">
