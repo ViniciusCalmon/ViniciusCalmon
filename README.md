@@ -26,7 +26,7 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusCalmon&layout=compact&langs_count=7&theme=dracula&cache_seconds=1800"/>
     
 </div>
-    <div align="center">
+    <div align="left">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=ViniciusCalmon&theme=dark">
     </div>
     <h2>🏆 GitHub Trophies</h2>
