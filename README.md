@@ -1,5 +1,7 @@
 # Hey there 👋 I am Vinicius Calmon 😄
 
+<img align="right" alt="cmulay | Read Book" src="https://github.com/MeIzSaiPranav/MeIzSaiPranav/blob/main/gifs/multi.gif" width="300" height="300" />
+
 ### 📬 Contact me
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/viniciusfcalmon/)](https://www.linkedin.com/in/viniciusfcalmon/)[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:viniciuscalmon1@gmail.com)](mailto:viniciuscalmon1@gmail.com)
