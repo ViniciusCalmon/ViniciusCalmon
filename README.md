@@ -31,5 +31,5 @@
     </div>
     <h2>🏆 GitHub Trophies</h2>
     <img src="https://github-profile-trophy.vercel.app/?username=barbisliboni&theme=nord&column=7" >
-    <img align="center" src="https://github.com/ViniciusCalmon/ViniciusCalmon/blob/main/workflows/github-contribution-grid-snake.gif">
+    <img align="center" src="https://github.com/ViniciusCalmon/ViniciusCalmon/blob/output/workflows/github-contribution-grid-snake.gif">
 </div>
