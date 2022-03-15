@@ -21,7 +21,7 @@
 ![](https://img.shields.io/badge/-KAFKA-orange)
 ![](https://img.shields.io/badge/-DOCKER-yellow)
 ![](https://img.shields.io/badge/-FIREBASE-brightblue)
-![](https://img.shields.io/badge/-MONGODB-brightred)
+![](https://img.shields.io/badge/-MONGODB-blue)
 
   
 <p align="left">
