@@ -18,7 +18,7 @@
 ![](https://img.shields.io/badge/-JAVASCRIPT-yellow)
 ![](https://img.shields.io/badge/-Openshift-red)
 ![](https://img.shields.io/badge/-TYPESCRIPT-green)
-![](https://img.shields.io/badge/-REACT%20JS-red)
+![](https://img.shields.io/badge/-REACTJS-red)
 ![](https://img.shields.io/badge/-Google%20Kubernetes%20Engine(GKE)-blue)
 ![](https://img.shields.io/badge/-CSS-blue)
 ![](https://img.shields.io/badge/-WebStorm-orange)
