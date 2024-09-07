@@ -41,5 +41,3 @@
     </div>
     <h2>🏆 GitHub Trophies</h2>
     <img src="https://github-profile-trophy.vercel.app/?username=ViniciusCalmon&theme=nord&column=7" >
-    <a href="https://github.com/ViniciusCalmon"><img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ViniciusCalmon&bg_color=20222b&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
-
