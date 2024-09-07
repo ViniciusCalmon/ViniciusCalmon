@@ -16,14 +16,18 @@
 ![](https://img.shields.io/badge/-NOSQL-green)
 ![](https://img.shields.io/badge/-HTML-orange)
 ![](https://img.shields.io/badge/-JAVASCRIPT-yellow)
-![](https://img.shields.io/badge/-REACT%20NATIVE-red)
+![](https://img.shields.io/badge/-Openshift-red)
+![](https://img.shields.io/badge/-TYPESCRIPT-green)
+![](https://img.shields.io/badge/-REACT%20JS-red)
+![](https://img.shields.io/badge/-Google%20Kubernetes%20Engine(GKE)-blue)
 ![](https://img.shields.io/badge/-CSS-blue)
-![](https://img.shields.io/badge/-KAFKA-orange)
+![](https://img.shields.io/badge/-WebStorm-orange)
 ![](https://img.shields.io/badge/-DOCKER-yellow)
-![](https://img.shields.io/badge/-FIREBASE-brightblue)
-![](https://img.shields.io/badge/-MONGODB-blue)
-![](https://img.shields.io/badge/-POSTGRESQL-green)
+![](https://img.shields.io/badge/-Elasticsearch-brightblue)
+![](https://img.shields.io/badge/-Oracle-blue)
+![](https://img.shields.io/badge/-MySql-green)
 ![](https://img.shields.io/badge/-DBEAVER-red)
+![](https://img.shields.io/badge/-Keycloak-yellow)
 
   
 <p align="left">
