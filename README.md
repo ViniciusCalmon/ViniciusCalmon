@@ -37,6 +37,19 @@ Foco de Combate: Sistemas Distribuídos, Microsserviços Resilientes, IAM & Nuve
 
 ---
 
+### 📖 A Jornada do Herói (Sobre Mim)
+
+Engenheiro de Software com sólida bagagem analítica originada na **Engenharia de Produção (IBMEC)** e aprofundamento técnico em **Engenharia de Software (UFRJ)**. 
+
+Atualmente atuo na guilda da **SulAmérica**, desenvolvendo e sustentando arquiteturas de microsserviços críticas e de alta disponibilidade com o ecossistema **Java (Spring Boot)**, orquestração em **Kubernetes (GKE/OpenShift)** e computação em nuvem na **Google Cloud Platform (GCP)**.
+
+**Minha filosofia de código:**
+* ⚔️ **Resiliência & Performance:** Arquiteturas desacopladas, Clean Architecture e tolerância a falhas.
+* 🛡️ **Segurança por Padrão:** Gestão avançada de identidade e acesso (IAM) com Keycloak e OAuth2/OIDC.
+* 📊 **Mentalidade Orientada a Dados:** Consultas eficientes em bancos relacionais (Oracle/MySQL) e indexação em larga escala com Elasticsearch.
+
+---
+
 ### 🔮 Grimório de Habilidades (Tech Stack)
 
 <table>
@@ -98,18 +111,18 @@ Foco de Combate: Sistemas Distribuídos, Microsserviços Resilientes, IAM & Nuve
 
 <div align="center">
   <a href="https://github.com/ViniciusCalmon">
-    <img height="175em" src="https://github-readme-stats.vercel.app/api?username=ViniciusCalmon&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&title_color=F59E0B&icon_color=F59E0B&text_color=E2E8F0&bg_color=0D1117" alt="Vinicius's GitHub Stats" />
-    <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusCalmon&layout=compact&langs_count=7&theme=tokyonight&hide_border=true&title_color=F59E0B&text_color=E2E8F0&bg_color=0D1117" alt="Top Languages" />
+    <img height="175em" src="https://github-readme-stats-fast.vercel.app/api?username=ViniciusCalmon&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&title_color=F59E0B&icon_color=F59E0B&text_color=E2E8F0&bg_color=0D1117" alt="Vinicius's GitHub Stats" />
+    <img height="175em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ViniciusCalmon&layout=compact&langs_count=7&theme=tokyonight&hide_border=true&title_color=F59E0B&text_color=E2E8F0&bg_color=0D1117" alt="Top Languages" />
   </a>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ViniciusCalmon&theme=tokyonight&hide_border=true&stroke=F59E0B&ring=F59E0B&fire=F59E0B&currStreakNum=E2E8F0" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=ViniciusCalmon&theme=tokyonight&hide_border=true&stroke=F59E0B&ring=F59E0B&fire=F59E0B&currStreakNum=E2E8F0" alt="GitHub Streak" />
 </div>
 
 <div align="center">
   <h4>🏆 Troféus de Conquistas</h4>
-  <img src="https://github-profile-trophy.vercel.app/?username=ViniciusCalmon&theme=tokyonight&column=7&no-bg=true&no-frame=true" alt="GitHub Profile Trophies" />
+  <img src="https://github-profile-trophy-xi.vercel.app/?username=ViniciusCalmon&theme=darkhub&column=7&no-bg=true&no-frame=true" alt="GitHub Profile Trophies" />
 </div>
 
 ---
@@ -119,7 +132,7 @@ Foco de Combate: Sistemas Distribuídos, Microsserviços Resilientes, IAM & Nuve
 <div align="center">
   <p><i>"Grandes desafios exigem guerreiros preparados. Envie um corvo mensageiro para forjarmos uma aliança!"</i></p>
 
-  <a href="https://vinicdev.com.br/">
+  <a href="https://portfolio-rpg-vinicius-174a8.web.app/">
     <img src="https://img.shields.io/badge/🔮_Explorar_Portfólio_RPG-Visitar-8A2BE2?style=for-the-badge" alt="Portfólio RPG" />
   </a>
   <a href="https://www.linkedin.com/in/viniciusfcalmon/">
